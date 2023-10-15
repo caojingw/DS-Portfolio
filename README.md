@@ -15,10 +15,9 @@ This Portfolio consists of all the Data Science projects I have done for academi
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
 
 In this project, I was given Amazon review text data to analyze and predict the reviews' usefulness.
+#
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
-
-#
 
 
 A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
