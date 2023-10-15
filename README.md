@@ -37,3 +37,4 @@ The objective of this project is to use data from Taarifa and the Tanzanian Mini
 
 1. eNPS Dashboard (using DOMO) - Project at work
 2. Retail Lending Portfolio Dashboard (using PowerBI) - Project at work
+3. Plotly (Coming Soon)
