@@ -23,7 +23,7 @@ In this project, I was given Amazon review text data to analyze and predict the 
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Pump It Up: Data Mining the Water Table](https://github.com/caojingw/pump-it-up)**
 
-The objective of this project is to use data from Taarifa and the Tanzanian Ministry of Water to predict which pumps are functional, which need some repairs, and which don't work at all?
+The objective of this project is to use data from Taarifa and the Tanzanian Ministry of Water to predict which pumps are functional, which need some repairs, and which don't work at all?                                                                                                             
 
 #
 
