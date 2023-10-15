@@ -11,7 +11,7 @@ This Portfolio consists of all the Data Science projects I have done for academi
 
 ## Projects
 
-<img align="left" width="250" height="180" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
+<img align="left" width="250" height="190" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
 
 In this project, I was given Amazon review text data to analyze and predict the reviews' usefulness.Teams will use Azure Databricks (which is based on Apache Spark) to analyze and model a large, textual dataset. The goals of this project are threefold:
 
