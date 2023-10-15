@@ -21,3 +21,5 @@ In this project, I was given Amazon review text data to analyze and predict the 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
 
 The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+
+<br />
