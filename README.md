@@ -17,10 +17,7 @@ This Portfolio consists of all the Data Science projects I have done at school a
 
 <img align="left" width="250" height="150" src="Images\amazon.png"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
 
-We predicted Amazon textual review helpfulness using Azure Databricks, achieving second place among 12 teams. The goals:
-
-- Learn how to use Spark/Databricks to work with Big Data to build ML models using textual features
-- Estimate the costs of Big Data projects in the cloud.
+We predicted Amazon textual review helpfulness using Azure Databricks, achieving second place among 12 teams. Goal #1: Learn how to use Spark/Databricks to work with Big Data to build ML models using textual features. Goal #2: Estimate the costs of Big Data projects in the cloud.
 
 
 #
