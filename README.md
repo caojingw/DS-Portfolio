@@ -15,7 +15,9 @@ This Portfolio consists of all the Data Science projects I have done for academi
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
 
 In this project, I was given Amazon review text data to analyze and predict the reviews' usefulness.
+
 #
+
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
 
