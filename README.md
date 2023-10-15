@@ -29,5 +29,5 @@ The objective of this project is to use data from Taarifa and the Tanzanian Mini
 
 <img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[House Price Prediction](https://github.com/caojingw/House-Prices-Advanced-Regression-Techniques)**
  
-•	Used Lasso and Ridge regressions to predict the house price to get the top 20% on the leaderboard.
-•	Dealt with missing instances, feature engineering and normalization to minimize the RSME by 10%
+- Used Lasso and Ridge regressions to predict the house price to get the top 20% on the leaderboard.
+- Dealt with missing instances, feature engineering and normalization to minimize the RSME by 10%
