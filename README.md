@@ -17,9 +17,9 @@ In this project, I was given Amazon review text data to analyze and predict the 
 
 The goals of this project are threefold:
 
-Learn how to use Spark/Databricks to work with Big Data from the real world.
-Further your knowledge and experience of building ML models using textual features
-Estimate the costs of Big Data projects in the cloud.
+1. Learn how to use Spark/Databricks to work with Big Data from the real world.
+2. Further your knowledge and experience of building ML models using textual features
+3. Estimate the costs of Big Data projects in the cloud.
 
 
 #
