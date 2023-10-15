@@ -11,7 +11,7 @@ This Portfolio consists of all the Data Science projects I have done for academi
 
 ## Projects
 
-<img align="left" width="250" height="200" src="Images\amazon.png"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
+<img align="left" width="250" height="150" src="Images\amazon.png"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
 
 Developed an NLP model to predict Amazon review helpfulness using Databricks/PySpark, achieving second place among 12 teams. We used Azure Databricks (which is based on Apache Spark) to analyze and model a large, textual dataset. The goals of this project are threefold:
 1. Learn how to use Spark/Databricks to work with Big Data from the real world.
