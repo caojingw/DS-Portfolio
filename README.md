@@ -1,6 +1,6 @@
 # Data Science Portfolio - James Cao
 
-This Portfolio consists of all the Data Science projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on a regular basis.
+This Portfolio consists of all the Data Science projects I have done at school and work if allowed. It will be updated on a regular basis to showcase the skills I developed and will be developing. Any feedback is welcomed!
 
 - **Email**: [james.cao1@outlook.com](james.cao1@outlook.com)
 - **LinkedIn**: [linkedin.com/jamescao1225](https://www.linkedin.com/in/jamescao1225/)
@@ -9,6 +9,9 @@ This Portfolio consists of all the Data Science projects I have done for academi
 
 - Scotiabank AI-Kathon Winner
 - Queen's Master of Management Analytics (MMA) Graduate
+
+## Skills
+
 
 ## Projects
 
@@ -32,3 +35,5 @@ The objective of this project is to use data from Taarifa and the Tanzanian Mini
  
 - Used Lasso and Ridge regressions to predict the house price to get the top 20% on the leaderboard.
 - Dealt with missing instances, feature engineering and normalization to minimize the RSME by 10%
+
+## Data Visulization
