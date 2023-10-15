@@ -5,10 +5,10 @@ This Portfolio consists of all the Data Science projects I have done for academi
 - **Email**: [james.cao1@outlook.com](james.cao1@outlook.com)
 - **LinkedIn**: [linkedin.com/jamescao1225](https://www.linkedin.com/in/jamescao1225/)
 
-### Education
+## Achievements
 
-### Work Experience
-Senior Manager,
+- Scotiabank AI-Kathon Winner
+- 
 
-### Projects
-EEG Band
+## Projects
+
