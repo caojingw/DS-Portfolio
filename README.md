@@ -33,4 +33,7 @@ The objective of this project is to use data from Taarifa and the Tanzanian Mini
 - Used Lasso and Ridge regressions to predict the house price to get the top 20% on the leaderboard.
 - Dealt with missing instances, feature engineering and normalization to minimize the RSME by 10%
 
-## Data Visulization
+## Data Visualization
+
+1. eNPS Dashboard (using DOMO) - Project at work
+2. Retail Lending Portfolio Dashboard (using PowerBI) - Project at work
