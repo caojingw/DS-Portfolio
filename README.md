@@ -12,19 +12,25 @@ This Portfolio consists of all the Data Science projects I have done at school a
 
 ## Skills
 
+- Programming & Visualization: SAS, Python, PySpark, Spark, PowerBI
+- Databases & Big Data: SQL, Hadoop, Google Cloud Platform
+- Machine Learning & Quantitative Analysis: Regression, Classification, Clustering, Time-Series and NLP
+- Version Control: GitHub
+- Documentation: Confluence Page
+
 
 ## Projects
 
 <img align="left" width="250" height="150" src="Images\amazon.png"> **[Amazon Review Helpful Prediction](https://github.com/caojingw/Amazon_Review)**
 
-We predicted Amazon textual review helpfulness using Azure Databricks, achieving second place among 12 teams. Goal #1: Learn how to use Spark/Databricks to work with Big Data to build ML models using textual features. Goal #2: Estimate the costs of Big Data projects in the cloud.
+We predicted Amazon textual review helpfulness using Azure Databricks, achieving second place among 12 teams. I used Spark/Databricks to work with Big Data to build ML models using textual features and estimated the costs of Big Data projects in the cloud.
 
 
 #
 
 <img align="left" width="250" height="150" src="Images\waterpump.png"> **[Pump It Up: Data Mining the Water Table](https://github.com/caojingw/pump-it-up)**
 
-The objective of this project is to use data from Taarifa and the Tanzanian Ministry of Water to predict which pumps are functional, which need some repairs, and which don't work at all? We Scored in the top 1% out of 3000+ teams in predicting pump functionality, utilizing a voting ensemble method of LightGBM, XGBoost, CatBoost, and Random Forest.                                                                                    
+The objective of this project is to predict if water pump are functional. We scored in the top 1% out of 3000+ teams in predicting pump functionality, utilizing a voting ensemble method of LightGBM, XGBoost, CatBoost, and Random Forest.                                                                                    
 
 #
 
@@ -33,7 +39,31 @@ The objective of this project is to use data from Taarifa and the Tanzanian Mini
 - Used Lasso and Ridge regressions to predict the house price to get the top 20% on the leaderboard.
 - Dealt with missing instances, feature engineering and normalization to minimize the RSME by 10%
 
+#
+
+<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[Students Performance with Flask & GCP]**
+ 
+- Build a Web App with Flask
+- Modular coding instead of writing "Spaghetti" code
+- Deploy and host on Google Cloud Platform App Engine
+- Alternatively, containerize with Docker and Deploy on GCP
+
+#
+
+<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[Time Series Analysis]**
+ 
+Don't worry, coming soon
+
+#
+
+<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[Large Language Model Project]**
+ 
+Don't worry, coming soon
+
+
+
 ## Data Visualization
+
 
 1. eNPS Dashboard (using DOMO) - Project at work
 2. Retail Lending Portfolio Dashboard (using PowerBI) - Project at work
