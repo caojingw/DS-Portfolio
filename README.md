@@ -8,6 +8,7 @@ This Portfolio consists of all the Data Science projects I have done for academi
 ## Achievements
 
 - Scotiabank AI-Kathon Winner
+- Queen's Master of Management Analytics (MMA) Graduate
 
 ## Projects
 
