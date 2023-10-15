@@ -12,3 +12,8 @@ This Portfolio consists of all the Data Science projects I have done for academi
 
 ## Projects
 
+1. AI-Kathon Competition                                                                                                                                             
+2. Amazon Review, Kaggle                                                                                                                                                      
+3. Pump It Up: Data Mining the Water Table, Drivendata                                            	                                               
+4. House-Prices-Advanced-Regression-Techniques
+
