@@ -1,6 +1,6 @@
 # Data Science Portfolio - James Cao
 
-This Portfolio consists of all the data science projects I have done at school and work if allowed. It will be updated on a regular basis to showcase the skills I developed and will be developing. Any feedback is welcomed!
+This Portfolio consists of all the data science projects I have done at school and work if allowed. I will update and improve this repository on a regular basis. Any feedback is welcomed!
 
 - **Email**: [james.cao1@outlook.com](james.cao1@outlook.com)
 - **LinkedIn**: [linkedin.com/jamescao1225](https://www.linkedin.com/in/jamescao1225/)
