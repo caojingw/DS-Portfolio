@@ -1,6 +1,6 @@
 # Data Science Portfolio - James Cao
 
-This Portfolio consists of all the Data Science projects I have done at school and work if allowed. It will be updated on a regular basis to showcase the skills I developed and will be developing. Any feedback is welcomed!
+This Portfolio consists of all the data science projects I have done at school and work if allowed. It will be updated on a regular basis to showcase the skills I developed and will be developing. Any feedback is welcomed!
 
 - **Email**: [james.cao1@outlook.com](james.cao1@outlook.com)
 - **LinkedIn**: [linkedin.com/jamescao1225](https://www.linkedin.com/in/jamescao1225/)
@@ -34,14 +34,14 @@ The objective of this project is to predict if water pump are functional. We sco
 
 #
 
-<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[House Price Prediction](https://github.com/caojingw/House-Prices-Advanced-Regression-Techniques)**
+<img align="left" width="250" height="120" src="Images\houseprice.jpeg"> **[House Price Prediction](https://github.com/caojingw/House-Prices-Advanced-Regression-Techniques)**
  
 - Used Lasso and Ridge regressions to predict the house price to get the top 20% on the leaderboard.
 - Dealt with missing instances, feature engineering and normalization to minimize the RSME by 10%
 
 #
 
-<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[Students Performance with Flask & GCP]**
+<img align="left" width="250" height="150" src="Images\flask.png"> **[Students Performance with Flask & GCP](https://github.com/caojingw/student_performance_prediction.git)**
  
 - Build a Web App with Flask
 - Modular coding instead of writing "Spaghetti" code
@@ -50,20 +50,18 @@ The objective of this project is to predict if water pump are functional. We sco
 
 #
 
-<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[Time Series Analysis]**
+<img align="left" width="250" height="100" src="Images\time series.png"> **[Time Series Analysis]**
  
-Don't worry, coming soon
+Coming soon
 
 #
 
-<img align="left" width="250" height="150" src="Images\houseprice.jpeg"> **[Large Language Model Project]**
+<img align="left" width="250" height="80" src="Images\llm.png"> **[Large Language Model Project]**
  
-Don't worry, coming soon
-
+Coming soon
 
 
 ## Data Visualization
-
 
 1. eNPS Dashboard (using DOMO) - Project at work
 2. Retail Lending Portfolio Dashboard (using PowerBI) - Project at work
