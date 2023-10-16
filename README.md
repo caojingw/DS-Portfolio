@@ -59,7 +59,7 @@ Coming soon
 Coming soon
 
 #
-<img align="left" width="250" height="100" src="powerbi.png"> **Data Visualization Project**
+<img align="left" width="250" height="120" src="Images\powerbi.png"> **Data Visualization Project**
  
 1. eNPS Dashboard (using DOMO) - Project at work
 2. Retail Lending Portfolio Dashboard (using PowerBI) - Project at work
